@@ -1,1 +1,3 @@
 # LGMVIP-DataScience
+
+The tasks performed during the internship...
