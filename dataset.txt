@@ -1,0 +1,1 @@
+So we created the function to fill the vocabulary of words, now let’s use this function on the dataset which will just split the sentences into words and select the last word of the sentence:
